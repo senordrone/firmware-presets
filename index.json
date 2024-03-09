@@ -4290,6 +4290,26 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/rc_link/SenorDrone_ChannelMap_Freestyle.txt",
+      "hash": "b1b3b3053d542dc9218b5f11d388b03e79b990ba38b5260f46611451fa20614e",
+      "title": "Channel map  settings for Senor Drone Freestyle setup",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor",
+        "drone",
+        "rc link",
+        "freestyle"
+      ],
+      "author": "Señor Drone",
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.4/rc_link/SenorDrone_ChannelMap_LongRange.txt",
       "hash": "1c2d8e435d51e0e2ef946526d85ba1c5ede9c52b6c9b47590b5dd6c7bdedcd31",
       "title": "Channel map  settings for Senor Drone Long Range setup",

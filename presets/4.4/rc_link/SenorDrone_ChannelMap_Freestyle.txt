@@ -1,0 +1,25 @@
+#$ TITLE: Channel map  settings for Senor Drone Freestyle setup
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: RC_LINK
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: senor, drone, rc link, freestyle
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: Set channel mapping for senor drone freestyle setup
+
+# map
+map TAER1234
+
+# aux
+aux 0 0 0 1850 2100 0 0
+aux 1 1 1 1300 2100 0 0
+aux 2 13 2 1800 2100 0 0
+aux 3 35 2 1325 1700 0 0
+
+# adjrange
+adjrange 0 0 3 900 2100 12 3 0 0
+
+# rxfail
+rxfail 5 s 1500
+rxfail 6 s 1000
