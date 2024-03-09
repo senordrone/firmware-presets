@@ -25,6 +25,6 @@ beeper -ON_USB
 beeper -CRASH_FLIP
 beeper -CAM_CONNECTION_OPEN
 beeper -CAM_CONNECTION_CLOSE
-
+beeper RX_SET
 beacon RX_LOST
 beacon RX_SET
