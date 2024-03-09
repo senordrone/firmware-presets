@@ -310,6 +310,7 @@
       "defaults",
       "defaults senor drone",
       "diatone",
+      "diff",
       "Digipick",
       "digital",
       "disable",
@@ -5525,6 +5526,22 @@
         "GPS_Rescue"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.5/other/SeñorDrone_LongRange_SpeedyBee405.txt",
+      "hash": "91a7aa320ffe3d40303a0b36f4fa16fd7105e6db15866da1db373895a3768d8b",
+      "title": "Señor Drone SpeedyBee 405 v3 Long Range",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "diff"
+      ],
+      "author": "Señor Drone",
       "priority": 0
     },
     {
