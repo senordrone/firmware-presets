@@ -137,6 +137,7 @@
       "4.2",
       "4.3",
       "4.4",
+      "4.4.3",
       "4.5"
     ],
     "category": [
@@ -1134,6 +1135,22 @@
         "stats"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.3/other/SeñorDrone_IFLIGHT_SUCCEX_E_F4.txt",
+      "hash": "313f0ec4064918aadf1e4b2bb1f0a55498d6f6012445a1a40b1b7a61cf0ddb57",
+      "title": "Señor Drone iFlight Succex E F4",
+      "firmware_version": [
+        "4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "diff"
+      ],
+      "author": "Señor Drone",
       "priority": 0
     },
     {
@@ -4057,7 +4074,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SeñorDrone_Beeper.txt",
-      "hash": "a8e046bd308136d03e8192420a16f17da7560a38fc26e56ea8090ccaa50f91d1",
+      "hash": "a5a4a58c3f958ab90296d72ea65af14744442290804b8f575c5f3072252d0ead",
       "title": "Señor Drone beeper settings",
       "firmware_version": [
         "4.3",
@@ -4086,6 +4103,22 @@
       "keywords": [
         "senor drone",
         "gps"
+      ],
+      "author": "Señor Drone",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/SeñorDrone_SpeedyBeeF7v3.txt",
+      "hash": "e7051f0282cab9ef87110b156cb217fc4b1918a87161181cb8b278a87b39c791",
+      "title": "Señor Drone SpeedyBee F7 v3",
+      "firmware_version": [
+        "4.4.3"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "diff"
       ],
       "author": "Señor Drone",
       "priority": 0
