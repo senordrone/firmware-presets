@@ -1,0 +1,52 @@
+#$ TITLE: Señor Drone tune for Apex 5inch
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: senor drone, tune, pids, filters
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: Pids and filter tune for Apex 5inch
+
+# Disable giro low pass
+simplified_gyro_filter = OFF
+set gyro_lpf1_static_hz = 0
+set gyro_lpf2_static_hz = 0
+
+# Set Dynamic notch filter
+set dyn_notch_count = 1
+set dyn_notch_q = 500
+set gyro_lpf1_dyn_min_hz = 0
+
+# Set Bi Directional DShot
+set dshot_bidir = ON
+set motor_pwm_protocol = DSHOT600
+
+# Set DTerm filters
+set simplified_dterm_filter = OFF
+set dterm_lpf1_dyn_min_hz = 80
+set dterm_lpf1_dyn_max_hz = 110
+set dterm_lpf1_dyn_expo = 8
+set dterm_lpf1_type = BIQUAD
+set dterm_lpf1_static_hz = 0
+set dterm_lpf2_static_hz = 0
+
+# Set Pids
+set p_pitch = 70
+set i_pitch = 126
+set d_pitch = 43
+set f_pitch = 168
+set p_roll = 67
+set i_roll = 120
+set f_roll = 161
+set p_yaw = 67
+set i_yaw = 120
+set f_yaw = 161
+set d_min_roll = 40
+set d_min_pitch = 43
+set simplified_master_multiplier = 150
+set simplified_d_gain = 90
+set simplified_dmax_gain = 0
+set simplified_feedforward_gain = 90
+set simplified_pitch_d_gain = 95
+set tpa_rate = 50
+set tpa_breakpoint = 1450

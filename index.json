@@ -425,6 +425,7 @@
       "partial",
       "Passthrough",
       "pid",
+      "pids",
       "PIDtoolbox",
       "pro32",
       "profile",
@@ -4740,6 +4741,25 @@
       ],
       "author": "QuadMcFly (Ryan Harrell)",
       "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/4.4/tune/SeñorDrone_Pids_Filters_Apex5.txt",
+      "hash": "ce6bc05950539436f47acedfdffe1bf63c9f61b0098b5ca0bb9d2d94e090bba6",
+      "title": "Señor Drone tune for Apex 5inch",
+      "firmware_version": [
+        "4.3",
+        "4.4"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "tune",
+        "pids",
+        "filters"
+      ],
+      "author": "Señor Drone",
+      "priority": 0
     },
     {
       "fullPath": "presets/4.4/tune/Street_League_LeadFingers.txt",
