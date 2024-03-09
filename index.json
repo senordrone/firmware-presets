@@ -277,6 +277,7 @@
       "bardwell",
       "basher",
       "basic",
+      "beeper",
       "beginner",
       "betaflight",
       "blackbox",
@@ -4030,6 +4031,24 @@
         "100euro"
       ],
       "author": "antonig",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/other/SeñorDrone_Beeper.txt",
+      "hash": "a8e046bd308136d03e8192420a16f17da7560a38fc26e56ea8090ccaa50f91d1",
+      "title": "Señor Drone beeper settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "beeper"
+      ],
+      "author": "Señor Drone",
       "priority": 0
     },
     {
