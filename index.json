@@ -4034,6 +4034,24 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/SeñorDrone_BasicConfig.txt",
+      "hash": "c2065645dbbdaeac7740144723c6e06baf9e60445153aa24a16e062e0a4dcb43",
+      "title": "Señor Drone basic settings",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "basic"
+      ],
+      "author": "Señor Drone",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/SeñorDrone_Beeper.txt",
       "hash": "a8e046bd308136d03e8192420a16f17da7560a38fc26e56ea8090ccaa50f91d1",
       "title": "Señor Drone beeper settings",

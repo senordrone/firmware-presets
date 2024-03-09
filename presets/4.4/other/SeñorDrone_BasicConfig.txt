@@ -1,0 +1,19 @@
+#$ TITLE: Señor Drone basic settings
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: senor drone, basic
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: Basic configuration
+
+feature AIRMODE
+feature OSD
+feature TELEMETRY
+set small_angle = 180
+set craft_name = chinapex
+set pilot_name = senor_drone
+set report_cell_voltage = ON
+set yaw_motors_reversed = ON
+set debug_mode = GYRO_SCALED
