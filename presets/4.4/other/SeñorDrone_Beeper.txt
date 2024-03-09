@@ -22,10 +22,9 @@ beeper -DISARM_REPEAT
 beeper -ARMED
 beeper -SYSTEM_INIT
 beeper -ON_USB
-beeper -BLACKBOX_ERASE
 beeper -CRASH_FLIP
 beeper -CAM_CONNECTION_OPEN
 beeper -CAM_CONNECTION_CLOSE
-beeper -RC_SMOOTHING_INIT_FAIL
+
 beacon RX_LOST
 beacon RX_SET
