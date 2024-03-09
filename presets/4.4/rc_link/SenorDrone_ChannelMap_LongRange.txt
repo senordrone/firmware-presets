@@ -1,0 +1,17 @@
+#$ TITLE: Channel map  settings for Senor Drone Long Range setup
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: RC_LINK
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: defaults senor drone, rc link, rc_link
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: Set channel mapping for senor drone long range setup
+
+# Radio map
+map TAER1234
+aux 0 0 0 1775 2100 0 0
+aux 1 1 1 1375 1625 0 0
+aux 2 46 1 1825 2100 0 0
+aux 3 13 2 1825 2100 0 0
+aux 4 35 2 1375 1625 0 0

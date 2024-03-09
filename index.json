@@ -308,6 +308,7 @@
       "DDC",
       "default",
       "defaults",
+      "defaults senor drone",
       "diatone",
       "Digipick",
       "digital",
@@ -4035,7 +4036,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SeñorDrone_BasicConfig.txt",
-      "hash": "c2065645dbbdaeac7740144723c6e06baf9e60445153aa24a16e062e0a4dcb43",
+      "hash": "b3d5c97333c79a4039dc11171ce6eb0b0b049a387bba3ec41366dbeb8f169997",
       "title": "Señor Drone basic settings",
       "firmware_version": [
         "4.3",
@@ -4214,6 +4215,25 @@
       ],
       "author": "Betaflight",
       "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/rc_link/SenorDrone_ChannelMap_LongRange.txt",
+      "hash": "1c2d8e435d51e0e2ef946526d85ba1c5ede9c52b6c9b47590b5dd6c7bdedcd31",
+      "title": "Channel map  settings for Senor Drone Long Range setup",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "defaults senor drone",
+        "rc link",
+        "rc_link"
+      ],
+      "author": "Señor Drone",
+      "priority": 10000000000
     },
     {
       "fullPath": "presets/4.4/tune/barracuda_race_tune.txt",
