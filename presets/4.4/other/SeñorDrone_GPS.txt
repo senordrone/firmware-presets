@@ -1,0 +1,22 @@
+#$ TITLE: Señor Drone GPS settings
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OTHER
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: senor drone, gps
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: GPS configuration with GPS rescue, use Senor Drone channel mappings as well
+
+feature GPS
+set failsafe_procedure = GPS-RESCUE
+rxfail 3 s 1375
+rxfail 5 s 1500
+rxfail 6 s 1000
+set gps_auto_baud = ON
+set gps_ublox_use_galileo = ON
+set gps_rescue_ground_speed = 1000
+set gps_rescue_max_angle = 60
+set gps_rescue_descend_rate = 200
+set gps_rescue_throttle_max = 1800
+set gps_rescue_throttle_hover = 1250
+set gps_rescue_allow_arming_without_fix = ON

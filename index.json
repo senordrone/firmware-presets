@@ -4073,6 +4073,23 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/other/SeñorDrone_GPS.txt",
+      "hash": "c8fea21e76fd0cefe0f3d18c89b9fc49125f3cd848a60217e2ea33bff9d3db70",
+      "title": "Señor Drone GPS settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OTHER",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "gps"
+      ],
+      "author": "Señor Drone",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/other/Tehllama_5in_Race_Multivoltage.txt",
       "hash": "69196f1b328ee290fb8293affa6dd96677d14512e1782112c4cb5af98f43e855",
       "title": "Tehllama 5\" Race Multivoltage",
