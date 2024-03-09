@@ -317,6 +317,7 @@
       "divimath",
       "DJI",
       "dominator",
+      "drone",
       "DShot telemetry",
       "eachine",
       "ELRS",
@@ -462,6 +463,7 @@
       "sbang",
       "sbus",
       "SBUS fast",
+      "senor",
       "senor drone",
       "shames",
       "shitpilot",
@@ -4171,6 +4173,25 @@
         "sbang"
       ],
       "author": "QuadMcFly (Ryan Harrell)",
+      "priority": 10000
+    },
+    {
+      "fullPath": "presets/4.4/rates/SenorDrone_Rates.txt",
+      "hash": "976b21078ee20c55bb230c7b764e2f58920ba61c36595a5e5c95dc16bfc8bc26",
+      "title": "Señor Drone rates",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RATES",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "rates",
+        "senor",
+        "drone"
+      ],
+      "author": "Señor Drone",
       "priority": 10000
     },
     {
