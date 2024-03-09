@@ -1,0 +1,26 @@
+#$ TITLE: Señor Drone Radio Settings ELRS 250hz 
+#$ FIRMWARE_VERSION: 4.3
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: RC_LINK
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: defaults senor drone, rc link, rc_link
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: ELRS 250hz radio settings for senor drone setup
+
+feature RX_SERIAL
+set serialrx_provider = CRSF
+
+set rc_smoothing = ON
+set rc_smoothing_auto_factor = 52
+set rc_smoothing_auto_factor_throttle = 30
+set rc_smoothing_setpoint_cutoff = 0
+set rc_smoothing_feedforward_cutoff = 0
+set rc_smoothing_throttle_cutoff = 0
+set rc_smoothing_debug_axis = ROLL
+
+set feedforward_averaging = 2_POINT
+set feedforward_smooth_factor = 45
+set feedforward_jitter_factor = 8
+set feedforward_transition = 0
+set feedforward_boost = 15

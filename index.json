@@ -4236,6 +4236,25 @@
       "priority": 10000000000
     },
     {
+      "fullPath": "presets/4.4/rc_link/SenorDrone_RadioSettings_ELRS250hz.txt",
+      "hash": "a42ec984312984dbd52720376a2b8045fc58548675cf6807bb8434a8fac3f424",
+      "title": "Señor Drone Radio Settings ELRS 250hz",
+      "firmware_version": [
+        "4.3",
+        "4.4",
+        "4.5"
+      ],
+      "category": "RC_LINK",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "defaults senor drone",
+        "rc link",
+        "rc_link"
+      ],
+      "author": "Señor Drone",
+      "priority": 10000000000
+    },
+    {
       "fullPath": "presets/4.4/tune/barracuda_race_tune.txt",
       "hash": "c4d865ea8670ce803590432ea894c75a52f1962b929b8debec52b0972f8151d8",
       "title": "Barracuda Racer Tune",
