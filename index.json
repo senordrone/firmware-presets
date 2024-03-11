@@ -4015,7 +4015,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/SeñorDrone_LongRange_HD_OSD.txt",
-      "hash": "814d9b61a20eb5a154bd875ba61e49220862863183ec46096ff6dd11fc98f505",
+      "hash": "46fcf185a29bda32ca8a2a130d096f72310b031074ee10252690efb4f316062c",
       "title": "Señor Drone Long Range HD OSD settings",
       "firmware_version": [
         "4.4",
@@ -5603,7 +5603,7 @@
     },
     {
       "fullPath": "presets/4.5/other/SeñorDrone_LongRange_SpeedyBee405.txt",
-      "hash": "113b4549bbd5bf95579b66580eb287ffba0e4ba50374d7a108fc27114fb6490e",
+      "hash": "87bf0b4a4692f93c57e675ffa68e8feca4dffd88ff2aee2335b1fedea5001101",
       "title": "Señor Drone SpeedyBee 405 v3 Long Range",
       "firmware_version": [
         "4.5"
