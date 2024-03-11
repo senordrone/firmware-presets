@@ -80,9 +80,8 @@ set yaw_motors_reversed = ON
 set small_angle = 180
 set gps_auto_baud = ON
 set gps_ublox_use_galileo = ON
-set gps_rescue_ground_speed = 1000
-set gps_rescue_max_angle = 60
-set gps_rescue_descend_rate = 200
+set gps_rescue_ascend_rate = 500
+set gps_rescue_max_angle = 30
 set gps_rescue_throttle_max = 1800
 set gps_rescue_throttle_hover = 1250
 set gps_rescue_allow_arming_without_fix = ON
@@ -121,23 +120,23 @@ set pilot_name = senor_drone
 profile 0
 
 # profile 0
-set p_pitch = 65
-set i_pitch = 117
-set d_pitch = 64
-set f_pitch = 175
-set p_roll = 63
-set i_roll = 112
-set d_roll = 56
-set f_roll = 168
-set p_yaw = 63
-set i_yaw = 112
-set f_yaw = 168
-set d_min_roll = 42
-set d_min_pitch = 47
+set p_pitch = 61
+set i_pitch = 109
+set d_pitch = 59
+set f_pitch = 162
+set p_roll = 58
+set i_roll = 104
+set d_roll = 52
+set f_roll = 156
+set p_yaw = 58
+set i_yaw = 104
+set f_yaw = 156
+set d_min_roll = 39
+set d_min_pitch = 44
 set feedforward_averaging = 2_POINT
 set feedforward_smooth_factor = 45
 set feedforward_jitter_factor = 8
-set simplified_master_multiplier = 140
+set simplified_master_multiplier = 130
 
 rateprofile 0
 

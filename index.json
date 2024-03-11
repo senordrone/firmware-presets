@@ -4093,7 +4093,7 @@
     },
     {
       "fullPath": "presets/4.4/other/SeñorDrone_GPS.txt",
-      "hash": "c8fea21e76fd0cefe0f3d18c89b9fc49125f3cd848a60217e2ea33bff9d3db70",
+      "hash": "a97ce7023030e9030b1ef71926b89efc28369abbd76163f9ac80bdf54e30fd74",
       "title": "Señor Drone GPS settings",
       "firmware_version": [
         "4.4",
@@ -5603,7 +5603,7 @@
     },
     {
       "fullPath": "presets/4.5/other/SeñorDrone_LongRange_SpeedyBee405.txt",
-      "hash": "91a7aa320ffe3d40303a0b36f4fa16fd7105e6db15866da1db373895a3768d8b",
+      "hash": "113b4549bbd5bf95579b66580eb287ffba0e4ba50374d7a108fc27114fb6490e",
       "title": "Señor Drone SpeedyBee 405 v3 Long Range",
       "firmware_version": [
         "4.5"
