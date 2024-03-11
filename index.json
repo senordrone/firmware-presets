@@ -4014,6 +4014,25 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.4/osd/SeñorDrone_HD_OSD.txt",
+      "hash": "f81226596e1db6c576afe0bcb0fca357973ed051aaa482bb5a05dbeed7ba6c67",
+      "title": "Señor Drone HD OSD settings",
+      "firmware_version": [
+        "4.4",
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "EXPERIMENTAL",
+      "keywords": [
+        "senor drone",
+        "hd",
+        "long range",
+        "OSD"
+      ],
+      "author": "Señor Drone",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/SeñorDrone_LongRange_HD_OSD.txt",
       "hash": "46fcf185a29bda32ca8a2a130d096f72310b031074ee10252690efb4f316062c",
       "title": "Señor Drone Long Range HD OSD settings",

@@ -1,0 +1,32 @@
+#$ TITLE: Señor Drone HD OSD settings
+#$ FIRMWARE_VERSION: 4.4
+#$ FIRMWARE_VERSION: 4.5
+#$ CATEGORY: OSD
+#$ STATUS: EXPERIMENTAL
+#$ KEYWORDS: senor drone, hd, long range, OSD
+#$ AUTHOR: Señor Drone
+#$ DESCRIPTION: HD OSD for freestyle quad made by Señor Drone
+
+set osd_warn_bitmask = 50035
+set osd_cap_alarm = 750
+set osd_rssi_dbm_alarm = -102
+set osd_link_quality_alarm = 80
+set osd_tim2 = 1281
+set osd_rssi_pos = 58
+set osd_link_quality_pos = 15433
+set osd_rssi_dbm_pos = 15401
+set osd_tim_2_pos = 44
+set osd_vtx_channel_pos = 42
+set osd_crosshairs_pos = 269
+set osd_ah_sbar_pos = 270
+set osd_ah_pos = 142
+set osd_current_pos = 14443
+set osd_mah_drawn_pos = 14411
+set osd_warnings_pos = 14648
+set osd_avg_cell_voltage_pos = 14379
+set osd_disarmed_pos = 14778
+set osd_flip_arrow_pos = 14717
+set osd_core_temp_pos = 504
+set osd_stat_bitmask = 8533540
+set osd_canvas_width = 60
+set osd_canvas_height = 22
