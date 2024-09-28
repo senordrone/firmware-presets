@@ -5,28 +5,42 @@
 #$ STATUS: EXPERIMENTAL
 #$ KEYWORDS: senor drone, hd, long range, OSD
 #$ AUTHOR: Señor Drone
-#$ DESCRIPTION: HD OSD for freestyle quad made by Señor Drone
+#$ DESCRIPTION: HD OSD for freestyle and long range quad made by Señor Drone
 
 set osd_warn_bitmask = 50035
-set osd_cap_alarm = 750
+set osd_rssi_alarm = 0
 set osd_rssi_dbm_alarm = -102
-set osd_link_quality_alarm = 80
+set osd_cap_alarm = 750
+set osd_alt_alarm = 10000
 set osd_tim2 = 1281
 set osd_rssi_pos = 58
-set osd_link_quality_pos = 15433
-set osd_rssi_dbm_pos = 15401
+set osd_link_quality_pos = 7241
+set osd_link_tx_power_pos = 1071
+set osd_rssi_dbm_pos = 7209
+set osd_rsnr_pos = 61
+set osd_tim_1_pos = 1326
 set osd_tim_2_pos = 44
+set osd_throttle_pos = 4257
 set osd_vtx_channel_pos = 42
 set osd_crosshairs_pos = 269
 set osd_ah_sbar_pos = 270
 set osd_ah_pos = 142
-set osd_current_pos = 14443
-set osd_mah_drawn_pos = 14411
-set osd_warnings_pos = 14648
-set osd_avg_cell_voltage_pos = 14379
-set osd_disarmed_pos = 14778
-set osd_flip_arrow_pos = 14717
+set osd_current_pos = 6248
+set osd_mah_drawn_pos = 6216
+set osd_gps_speed_pos = 4225
+set osd_gps_lon_pos = 4769
+set osd_gps_lat_pos = 4785
+set osd_gps_sats_pos = 4129
+set osd_home_dir_pos = 4152
+set osd_home_dist_pos = 4155
+set osd_flight_dist_pos = 5153
+set osd_altitude_pos = 4161
+set osd_warnings_pos = 6455
+set osd_avg_cell_voltage_pos = 6185
+set osd_battery_usage_pos = 33002
+set osd_disarmed_pos = 6551
+set osd_flip_arrow_pos = 6522
 set osd_core_temp_pos = 504
 set osd_stat_bitmask = 8533540
-set osd_canvas_width = 60
 set osd_canvas_height = 22
+set osd_canvas_width = 53
